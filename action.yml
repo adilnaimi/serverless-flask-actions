@@ -1,5 +1,5 @@
-name: 'Hello World'
-description: 'Greet someone and record the time'
+name: 'Action for Serverless to deploy flask'
+description: 'Deploy Flask Python App with serverless and Actions'
 inputs:
   who-to-greet:  # id of input
     description: 'Who to greet'
